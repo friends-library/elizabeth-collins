@@ -72,6 +72,9 @@ I was ready to conclude, that no one`'s trials could exceed mine; but the Lord, 
 was near to support and bear up through all, that I did not sink below hope,
 though often brought very low both in body and mind,
 in which seasons I wrote the following.
+
+[quote]
+____
 My heart seems somewhat humbled within me,
 and my desire is that I may be preserved as in the hollow of the Lord`'s mighty hand,
 who am a poor unworthy creature; but he is wonderful in goodness; he has spared, pitied,
@@ -93,6 +96,7 @@ that we may be found in a state of preparation for that awful moment,
 when the dust shall return to the earth as it was, and the spirit unto God who gave it;
 then may we hope, that when Christ, who is our life, shall appear,
 we also shall appear with him in glory.
+____
 
 I also felt great yearnings of heart towards my fellow creatures,
 and much tenderness and compassion for the brute creation,
@@ -179,6 +183,8 @@ I had many deep and close exercises to pass through,
 which nothing short of the divine arm of Omnipotence, could have supported through;
 about which time I wrote as follows:
 
+[quote]
+____
 Unto you, O you Searcher of hearts, I commit myself, O Lord search me, and try me;
 if there be iniquity in me, do it away.
 Let not your blessed hand spare,
@@ -194,6 +200,7 @@ Create in me a clean heart,
 and renew a right spirit within me--a right disposition of mind,
 to bear all things that may fall to my lot, for the trial of my faith and love unto you,
 O you beloved of my soul.
+____
 
 In the third month, 1790,
 I visited the families of Friends and others who make profession with us in the
@@ -377,7 +384,11 @@ that I have not a name importing little enough to call them by,
 comparable to the joys of eternity, that I have had a prospect of.
 Center then O my soul, more and more, within the enclosure of the walls of its salvation.
 
+[.offset]
 Copy of a Letter to a Friend, dated Ninth month, 1796.
+
+[.embedded-content-document.letter]
+--
 
 Dear Friend,--So I can in truth address you,
 for such has been the feeling of my mind towards you of late; yes,
@@ -421,9 +432,13 @@ and in the end give you an admittance into the mansions of rest and peace,
 which are prepared for the righteous only:
 that this may be your happy experience is what my spirit breathes for.
 
+[.signed-section-closing]
 From your well wishing friend,
 
+[.signed-section-signature]
 Elizabeth Collins.
+
+--
 
 In the ninth month, I attended our select and quarterly meetings,
 which in the main were solid,
@@ -1572,13 +1587,13 @@ These lines have been so sweetly revived when in a feeble state,
 and feeling a peaceful calm and quiet, I thought I could with propriety adopt them,
 as the present state of my mind:
 
-"`How are thy servants blest, Lord,
-
+[verse]
+____
+How are thy servants blest, Lord,
 How sure is their defence;
-
 Eternal wisdom is their guide.
-
-Their help, Omnipotence.`"
+Their help, Omnipotence.
+____
 
 How comfortable, when we can rightly number and appreciate our blessings,
 knowing our place of defence to be the munitions of rocks, bread to be given us,
@@ -1598,6 +1613,9 @@ who is worthy forever and ever; which is the sincere breathing of my spirit.
 +++[+++The following is an extract from a letter written to a Friend,
 on recovering from illness, dated Twelfth month 19th, 1821.]
 
+[.embedded-content-document.letter]
+--
+
 May we, my dear friend, patiently submit to every dispensation of divine Providence,
 and endeavour to improve under it;
 for all things work together for good to them that love and fear the Lord.
@@ -1615,8 +1633,13 @@ his love and mercy to me a poor unworthy creature, I am led to adopt the languag
 "`What shall I render unto you, O Lord, for all your benefits towards me?`"
 They are great, they are many.
 
+--
+
 +++[+++Twelfth month 7th, 1823.
 To the same she writes again, from which the following is extracted:]
+
+[.embedded-content-document.letter]
+--
 
 I feel near sympathy with you and my dear friends in that city (Philadelphia),
 and the desire of my heart is for your preservation.
@@ -1644,6 +1667,8 @@ that there was greater need of deep searching of heart; yes,
 deep indwelling of soul before the Divine Majesty, imploring his aid and preservation,
 that we may become faithful standard bearers, and upright pillars in his house.
 
+--
+
 First month, 1825.
 I am more than seventy years old; an age I did not expect or desire to attain unto,
 but thus it has proved, my days have been lengthened out in best wisdom, no doubt,
@@ -1669,13 +1694,13 @@ It was trying, as I felt much for the family, having buried two daughters, young
 sometime before, and I was not able to go to see them, nor attend their funerals.
 As these things lay upon my mind, the following lines sweetly presented:
 
-"`What cannot resignation do?
-
+[verse]
+____
+What cannot resignation do?
 It wonders can perform;
-
 That powerful charm, Thy will be done?
-
-Can lay the loudest storm.`"
+Can lay the loudest storm.
+____
 
 This had a tendency to settle my mind, in humble resignation to the divine will.
 I then remembered I had paid him a visit in his sickness,
@@ -1747,7 +1772,10 @@ she mentions a loss incurred by a son-in-law,
 and the reflections which passed through her mind on those occasions,
 in the following manner: --
 
-"`A fire caught in an old building near the house,
+[.embedded-content-document.letter]
+--
+
+A fire caught in an old building near the house,
 that burnt nearly all their out buildings, which were very valuable,
 with the hay and grain in them, except a little Indian corn.
 I got there when it was all in flames; such a scene I never beheld;
@@ -1755,11 +1783,17 @@ the house with its contents was saved, which is a great favour indeed;
 it is cause of gratitude, humble gratitude to the Author of all our blessings.
 When the buildings were all in flames, I remembered the expressions of Job,
 when stript of his substance and his children also; '`The Lord gave,
-and the Lord has taken away, blessed be the name of the Lord.`'`"
+and the Lord has taken away, blessed be the name of the Lord.`'
 
+--
+
+[.offset]
 In the same letter she proceeds as follows:--
 
-"`I often feel anxious for you,
+[.embedded-content-document.letter]
+--
+
+I often feel anxious for you,
 greatly desirous that you may be preserved upon the right foundation, in this trying day,
 wherein the foundations of many are shaken,
 and they are denying the Lord that bought them,
@@ -1781,7 +1815,9 @@ where he told his followers, '`that Satan was desirous to have them,
 that he might sift them as wheat; but I have prayed for you Peter,
 that your faith fail not.`' O may we walk worthy of the prayers, intercessions,
 and preservation of a gracious and bountiful Mediator and Redeemer,
-is the desire I now feel while I am writing.`"
+is the desire I now feel while I am writing.
+
+--
 
 In the second month, 1827,
 my dear husband departed this life in the seventy-fifth year of his age,
@@ -1876,13 +1912,13 @@ our blessed Redeemer, is worthy forever.
 Oh! the preciousness of the Truth; how it strengthens and supports the mind,
 that I may say with the poet,
 
-"`My life, if thou preserv`'st my life,
-
+[verse]
+____
+My life, if thou preserv`'st my life,
 Thy sacrifice shall be:
-
 And death, if death shall be my doom,
-
-Will join my soul to thee.`"
+Will join my soul to thee.
+____
 
 O blessed union and communion,
 to join the heavenly host in singing praises and hallelujahs,
@@ -1904,13 +1940,20 @@ and be saved with an everlasting salvation.
 In the sixth month, 1830, she addressed the following note to her Friends,
 at their quarterly meeting at Evesham.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sixth month 15th, 1830.
 
 My love affectionately to Friends at our quarterly select meeting.
 Although I am feeble in body,
 am sound in faith and love to our glorious Redeemer`'s cause.
 
+[.signed-section-signature]
 Elizabeth Collins.
+
+--
 
 Reports having been circulated that she had changed her principles
 and adopted those which had latterly been spread among Friends,
@@ -1920,7 +1963,10 @@ to refute the misrepresentation, and for the use of those who survived her,
 of which the following is a copy.
 She afterwards mentioned that the completion of it was a relief to her mind.
 
-"`As my health continues feeble, but being favoured with a sound mind and memory,
+[.embedded-content-document]
+--
+
+As my health continues feeble, but being favoured with a sound mind and memory,
 an impression has repeatedly revived on my mind, as it is a day of misrepresentation,
 that it would be right to leave something to show that my faith is not changed;
 that I have no unity with that disorganizing spirit, that has caused the separation,
@@ -1939,13 +1985,20 @@ and Advocate with the Father, even his own beloved Son; to whom belong glory and
 adoration, thanksgiving and praise, both now, forever, and forevermore.
 Amen.
 
+[.signed-section-context-close]
 Dated Eleventh month 20th, 1830.
 
+[.signed-section-signature]
 Elizabeth Collins.
+
+--
 
 In the twelfth month she again addressed her Friends at their quarterly meeting,
 with this salutation of love, by which she evinced a continued interest in their welfare,
 and a humble, patient waiting for the coming of her Lord.
+
+[.embedded-content-document.letter]
+--
 
 My love is affectionately to Friends at our quarterly meeting at Evesham,
 and may inform that I am endeavouring patiently to wait
@@ -1955,9 +2008,13 @@ finally, beloveds, farewell; be of good comfort, be of one mind; live in love,
 and the God of love and peace be with you.
 Amen.
 
+[.signed-section-signature]
 Elizabeth Collins.
 
+[.signed-section-context-close]
 Fourteenth of twelfth month, 1830.
+
+--
 
 From the summer of 1829, till the autumn of the following year,
 bodily infirmity and disease confined her very much at home.
